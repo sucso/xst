@@ -1,0 +1,6 @@
+: 1658520616:0;wget https://st.suckless.org/patches/newterm/st-newterm-20220221-0.8.5.diff
+: 1658520667:0;cd patches
+: 1658520669:0;wget https://st.suckless.org/patches/newterm/st-newterm-20220221-0.8.5.diff
+: 1658520673:0;range
+: 1658520674:0;ranger
+: 1658520683:0;..
