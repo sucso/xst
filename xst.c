@@ -94,6 +94,10 @@ xrdb_load(void)
 		  // see above.
 		  defaultrcs = defaultbg;
 		}
+		XRESOURCE_LOAD_STRING("selectionbg", colorname[selectionbg]);
+		XRESOURCE_LOAD_STRING("selectionfg", colorname[selectionfg]);
+		XRESOURCE_LOAD_INTEGER("ignoreselfg", ignoreselfg);
+
 
 		XRESOURCE_LOAD_STRING("font", font);
 		XRESOURCE_LOAD_STRING("termname", termname);
