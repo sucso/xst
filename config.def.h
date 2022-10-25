@@ -123,7 +123,7 @@ int opt_depth = 0;
 static int bellvolume = 0;
 
 /* default TERM value */
-char *termname = "xst-256color";
+char *termname = "xterm-256color";
 
 /*
  * spaces per tab
